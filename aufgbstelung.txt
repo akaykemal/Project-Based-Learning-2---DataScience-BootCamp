@@ -1,4 +1,0 @@
-Please log on to kaggle.com and see the German Traffic Sign Dataset, train your model to recognize all the signs, and create a website or cell phone app to predict the sign if you point your cell phone camera to a traffic sign in Germany or a website when you upload a traffic sign image.
-
-
-https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
