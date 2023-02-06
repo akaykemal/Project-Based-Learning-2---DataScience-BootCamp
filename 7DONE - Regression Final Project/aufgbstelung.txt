@@ -1,0 +1,8 @@
+Please log on to www.hepsiemlak.com and webscrape the rent listings and 
+create a regression model to predict rent prices in your city where you live right now.
+www.hepsiemlak.com sitesine gidip bulunduğunuz şehre ait kira ilanlarını webscraping ile alarak, 
+regression algoritmaları ile ev kira fiyatlarını tahmin eden bir model geliştireceksiniz.
+Makine Öğrenmesinde öğrendiğimiz modellerin yanında Derin Öğrenme, Tensorflow ve Keras kullanarak 
+yeniden tahminleme yapacaksınız.
+
+https://www.hepsiemlak.com/kastamonu-kiralik
